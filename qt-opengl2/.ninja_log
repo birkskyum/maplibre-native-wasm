@@ -1,0 +1,10 @@
+# ninja log v6
+2	238	1722041062926440747	QMapLibreExampleWidgets_autogen/timestamp	7fd44fa7e167e0f1
+2	238	1722041062926440747	QMapLibreExampleWidgets_autogen/mocs_compilation.cpp	7fd44fa7e167e0f1
+2	238	1722041062926440747	/Users/admin/repos/qtbuild2/QMapLibreExampleWidgets_autogen/timestamp	7fd44fa7e167e0f1
+2	238	1722041062926440747	/Users/admin/repos/qtbuild2/QMapLibreExampleWidgets_autogen/mocs_compilation.cpp	7fd44fa7e167e0f1
+239	304	1722041062936470731	CMakeFiles/QMapLibreExampleWidgets.dir/mainwindow.cpp.o	6bff2e3c85328819
+239	307	1722041062936076522	CMakeFiles/QMapLibreExampleWidgets.dir/QMapLibreExampleWidgets_autogen/mocs_compilation.cpp.o	76cf939893f664b5
+239	307	1722041062936329647	CMakeFiles/QMapLibreExampleWidgets.dir/main.cpp.o	ff0555ac3d5b7697
+239	308	1722041062936613023	CMakeFiles/QMapLibreExampleWidgets.dir/window.cpp.o	5c7031defa6c7091
+309	34268	1722041063005788906	QMapLibreExampleWidgets.js	37b02c1388823d07
