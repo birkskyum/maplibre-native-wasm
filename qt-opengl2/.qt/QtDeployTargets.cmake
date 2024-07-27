@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_QMapLibreExampleWidgets_FILE /Users/admin/repos/qtbuild2/QMapLibreExampleWidgets.js)
-set(__QT_DEPLOY_TARGET_QMapLibreExampleWidgets_TYPE EXECUTABLE)
