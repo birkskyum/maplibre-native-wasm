@@ -1,3 +1,3 @@
-MapLibre Native Qt compiled to WebAssembly.
+MapLibre Native Web - Compiled with Qt / OpenGL2 to WebAssembly.
 
-It's the opengl2 compatibility branch of MapLibre Native, which will result in WebGL1.
+Since it's the opengl2 compatibility branch, the result is webgl1
