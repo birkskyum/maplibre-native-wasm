@@ -6,7 +6,7 @@ The purpose of this repo is to track progress, document and demonstrate these pa
 
 ### Qt for WebAssembly
 
-[MapLibre Native Qt](https://github.com/maplibre/maplibre-native-qt) makes it easy to build Mobile and Desktop apps with MapLibre.
+[MapLibre Native Qt](https://github.com/maplibre/maplibre-native-qt) makes it easy to build Mobile and Desktop apps with MapLibre in C++.
 
 [Qt for WebAssembly](https://doc.qt.io/qt-6/wasm.html) allow those apps to run on the Web as well!
 
