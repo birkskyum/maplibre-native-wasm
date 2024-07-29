@@ -14,8 +14,8 @@ Note: Qt isn't permissively licesnse like MapLibre Native, so be sure to check o
 
 #### Roadmap
 Compilation and deployment of our Widget example app
-- ✅ WebGL1 ( [Try Demo!](https://maplibre-native-wasm-dist.pages.dev/qt-opengl2/) ) - ( [Build guide and binaries](https://github.com/birkskyum/maplibre-native-wasm-dist/tree/main/qt-opengl2) ) - [Ticket](https://github.com/maplibre/maplibre-native-qt/issues/49)
-- ⌛ WebGL2 - [Ticket](https://github.com/maplibre/maplibre-native-qt/issues/147)
+- ✅ WebGL1 ( [Try Demo!](https://maplibre-native-wasm-dist.pages.dev/qt-opengl2/) ) - ( [Build guide and binaries](https://github.com/birkskyum/maplibre-native-wasm-dist/tree/main/qt-opengl2) ) - [Ref. Ticket](https://github.com/maplibre/maplibre-native-qt/issues/49)
+- ⌛ WebGL2 - tracking ticket - https://github.com/maplibre/maplibre-native-qt/issues/147
 - ⌛ WebGPU
 
 Side quests and optmizations to be made:
