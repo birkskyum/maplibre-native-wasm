@@ -10,7 +10,7 @@ The purpose of this repo is to track progress, document and demonstrate these pa
 
 [Qt for WebAssembly](https://doc.qt.io/qt-6/wasm.html) allow those apps to run on the Web as well!
 
-Note: Qt isn't permissively licesnse like MapLibre Native, so be sure to check out the license requirement of your usecase.
+Note: Qt isn't permissively licesnse like MapLibre Native, so be sure to check out the license requirement of your use-case.
 
 #### Roadmap
 Compilation and deployment of our Widget example app
