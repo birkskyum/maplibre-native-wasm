@@ -32,7 +32,7 @@ Side quests and optmizations to be made:
 
 Not started. More info [here](https://kotlinlang.org/docs/wasm-overview.html)
 
-### Flutter for web
+### Flutter for Web
 
 Not started. More info [here](https://flutter.dev/multi-platform/web)
 
