@@ -14,6 +14,41 @@ Here are instructions to make a wasm build, that'll for now give a black screen,
 
 For anyone interested in trying this. Here are the first steps (I'm on macos, so some of my steps my not transfer directly):
 
+### Changes needed to the code:
+
+In the vendor/maplibre-native, update the followign in the: **HTTPFileSource**
+
+`reply-> url` in the opengl2 branch of Native. After that the map kept crashing due to duplicate requests, but then changing `deleteLater();` to `abort();` fixed that.
+
+```diff
+void HTTPFileSource::Impl::onReplyFinished() {
+    QNetworkReply* reply = qobject_cast<QNetworkReply*>(sender());
+--     const QUrl& url = reply->request().url();
+++     const QUrl& url = reply->url();
+
+    auto it = m_pending.find(url);
+    if (it == m_pending.end()) {
+--        reply->deleteLater();
+++        reply->abort();
+        return;
+    }
+
+    QByteArray data = reply->readAll();
+    QVector<HTTPRequest*>& requestsVector = it.value().second;
+
+    // Cannot use the iterator to walk the requestsVector
+    // because calling handleNetworkReply() might get
+    // requests added to the requestsVector.
+    while (!requestsVector.isEmpty()) {
+        requestsVector.takeFirst()->handleNetworkReply(reply, data);
+    }
+
+    m_pending.erase(it);
+--    reply->deleteLater();
+++    reply->abort();
+}
+```
+
 ### Installations
 
 - Clone the maplibre-native-qt repo
@@ -77,3 +112,8 @@ https://github.com/user-attachments/assets/09b8dbfc-68cd-446a-90af-41f5a0b13230
 #### Note on debugging
 
 - Use `-DCMAKE_BUILD_TYPE="RelWithDebInfo" \`
+
+
+
+
+
