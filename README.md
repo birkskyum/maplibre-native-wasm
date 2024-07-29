@@ -4,7 +4,7 @@
 Targets that have been compiled to WebAssembly and are distributed here:
 
 ### Qt - using [Qt for WebAssembly](https://doc.qt.io/qt-6/wasm.html)
-- ✅ WebGL1 ([Demo](https://maplibre-native-wasm-dist.pages.dev/qt-opengl2/)) ([Build guide and binaries](https://github.com/birkskyum/maplibre-native-wasm-dist/tree/main/qt-opengl2))
+- ✅ WebGL1 ([Widget Demo](https://maplibre-native-wasm-dist.pages.dev/qt-opengl2/)) ([Build guide and binaries](https://github.com/birkskyum/maplibre-native-wasm-dist/tree/main/qt-opengl2))
 - ⌛ WebGL2
 - ⌛ WebGPU
 
