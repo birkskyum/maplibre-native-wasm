@@ -19,8 +19,8 @@ Compilation and deployment of our Widget example app
 - ⌛ WebGPU
 
 Side quests and optmizations to be made:
-- ⌛ Move from Asynchify to JSPI ([more](https://v8.dev/blog/jspi))
-- ⌛ TypeScript type declarations ([more](https://github.com/emscripten-core/emscripten/blob/main/ChangeLog.md#3157---041024))
+- ⌛ Move from Asynchify to JSPI ( [more info](https://v8.dev/blog/jspi) )
+- ⌛ TypeScript type declarations ( [more info](https://github.com/emscripten-core/emscripten/blob/main/ChangeLog.md#3157---041024) )
 - ⌛ Public API exposed to JS
 
 ### GLFW
