@@ -29,7 +29,7 @@ Side quests and optmizations to be made:
 
 ### Kotlin WASM
 
-Being considered. More info on Kotlin WAASM [here](https://kotlinlang.org/docs/wasm-overview.html)
+Being considered. More info on Kotlin WASM [here](https://kotlinlang.org/docs/wasm-overview.html)
 
 ### MapLibre Native Core
 
