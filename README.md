@@ -2,7 +2,7 @@
 
 There are multiple paths to compile MapLibre Native to WebAssembly (WASM), and some even enable running MapLibre Native in the browser.
 
-The purpose of this repo is to track progress, document andd demonstrates these paths as they evolve.
+The purpose of this repo is to track progress, document and demonstrates these paths as they evolve.
 
 ### Qt for WebAssembly
 
