@@ -30,7 +30,11 @@ Side quests and optmizations to be made:
 
 ### Kotlin WASM
 
-Being considered. More info on Kotlin WASM [here](https://kotlinlang.org/docs/wasm-overview.html)
+Not started. More info [here](https://kotlinlang.org/docs/wasm-overview.html)
+
+### Flutter for web
+
+Not started. More info [here](https://flutter.dev/multi-platform/web)
 
 ### MapLibre Native Core
 
