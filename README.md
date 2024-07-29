@@ -6,7 +6,7 @@ There isn't one blessed path, but various possible approaches will be outlined a
 
 ### Qt for WebAssembly
 
-Qt is great for making Desktop and Mobile apps in C++, and [MapLibre Native Qt](https://github.com/maplibre/maplibre-native-qt) makes it easy to add a map to.
+Qt is great for making Desktop and Mobile apps in C++, and [MapLibre Native Qt](https://github.com/maplibre/maplibre-native-qt) makes it easy to use.
 
 [Qt for WebAssembly](https://doc.qt.io/qt-6/wasm.html) makes it possible to reach the Web as well!
 
