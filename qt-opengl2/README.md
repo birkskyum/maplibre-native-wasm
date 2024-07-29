@@ -106,6 +106,7 @@ emrun --browser=chrome QMapLibreExampleWidgets.html
 ```
 
 result in browser:
+
 https://github.com/user-attachments/assets/09b8dbfc-68cd-446a-90af-41f5a0b13230
 
 
