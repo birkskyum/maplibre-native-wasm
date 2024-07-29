@@ -16,8 +16,8 @@ Side quests and optmizations to be made:
 - ⌛ Public API exposed to JS
 
 #### GLFW
-- ⌛ WebGL2
-- ⌛ WebGPU
+- ⌛ WebGL2 demo
+- ⌛ WebGPU demo
 
 ## MapLibre Native Core
 
