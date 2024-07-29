@@ -1,8 +1,8 @@
-# MapLibre Native for Web
+# MapLibre Native WebAssembly
 
-Any target of MapLibre Native that can compiled to WASM can be considered a path for running MapLibre Native for Web.
+There are multiple targets of MapLibre Native that can be compiled to WebAssembly, some of which can allow for MapLibre Native for Web
 
-There isn't one blessed path, but various possible approaches will be outlined and demonstrated in this repo.
+The purpose of this repo is to track progress, document andd demonstrates these paths as they evolve.
 
 ### Qt for WebAssembly
 
