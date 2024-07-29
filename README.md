@@ -1,6 +1,6 @@
-# MapLibre Native WebAssembly
+# MapLibre Native - WebAssembly compilation
 
-There are multiple targets of MapLibre Native that can be compiled to WebAssembly, some of which can allow for MapLibre Native for Web
+There are multiple paths to compiled MapLibre Native to WebAssembly (WASM) - some of these paths enable running MapLibre Native in the browser.
 
 The purpose of this repo is to track progress, document andd demonstrates these paths as they evolve.
 
