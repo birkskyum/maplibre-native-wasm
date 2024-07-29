@@ -1,4 +1,4 @@
-# MapLibre Native - WebAssembly
+# MapLibre Native - WebAssembly compilation
 
 There are multiple paths to compile MapLibre Native to WebAssembly (WASM), and some even enable running MapLibre Native in the browser.
 
