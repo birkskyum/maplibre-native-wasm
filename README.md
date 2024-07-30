@@ -34,7 +34,11 @@ Not started. More info [here](https://kotlinlang.org/docs/wasm-overview.html)
 
 ### Flutter for Web
 
-Not started. More info [here](https://flutter.dev/multi-platform/web)
+Currently, the https://github.com/maplibre/flutter-maplibre-gl uses MapLibre GL JS for the web target.
+
+It is technically possible to use a wasm build of Native for web as well, which would give identical rendering and feature set.
+
+Work is not started. More info [here](https://flutter.dev/multi-platform/web)
 
 ### MapLibre Native Core
 
