@@ -30,7 +30,7 @@ Side quests and optmizations to be made:
 
 ### Compose Multiplatform
 
-WASM not started, Compose ticket [here](https://github.com/maplibre/maplibre-native/issues/2638).
+Compose ticket [here](https://github.com/maplibre/maplibre-native/issues/2638).
 
 ### Kotlin WASM
 
