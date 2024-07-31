@@ -28,6 +28,10 @@ Side quests and optmizations to be made:
 - ⌛ WebGL2 demo
 - ⌛ WebGPU demo
 
+### Compose Multiplatform
+
+WASM not started, Compose ticket [here](https://github.com/maplibre/maplibre-native/issues/2638).
+
 ### Kotlin WASM
 
 Not started. More info [here](https://kotlinlang.org/docs/wasm-overview.html)
