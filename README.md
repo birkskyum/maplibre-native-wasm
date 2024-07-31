@@ -33,6 +33,7 @@ Side quests and optmizations to be made:
 Compose ticket [here](https://github.com/maplibre/maplibre-native/issues/2638).
 
 More info on Compose Multiplatform [here](https://www.jetbrains.com/lp/compose-multiplatform/).
+
 More info on Kotlin WASM [here](https://kotlinlang.org/docs/wasm-overview.html).
 
 ### Flutter for Web
