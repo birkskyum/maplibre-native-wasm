@@ -28,13 +28,12 @@ Side quests and optmizations to be made:
 - ⌛ WebGL2 demo
 - ⌛ WebGPU demo
 
-### Compose Multiplatform
+### Kotlin WASM / Compose Multiplatform
 
 Compose ticket [here](https://github.com/maplibre/maplibre-native/issues/2638).
 
-### Kotlin WASM
-
-Not started. More info [here](https://kotlinlang.org/docs/wasm-overview.html)
+More info on Compose Multiplatform [here](https://www.jetbrains.com/lp/compose-multiplatform/).
+More info on Kotlin WASM [here](https://kotlinlang.org/docs/wasm-overview.html).
 
 ### Flutter for Web
 
