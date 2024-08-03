@@ -19,6 +19,7 @@ For anyone interested in trying this. Here are the first steps (I'm on macos, so
 In the vendor/maplibre-native, update the followign in the: **HTTPFileSource**
 
 Changing the `reply-> url` in the opengl2 branch of Native allow the build to run.
+
 Changing `deleteLater();` to `abort();` fixed avoids a lot of duplicate requests.
 
 ```diff
