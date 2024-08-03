@@ -16,7 +16,7 @@ Note: Be sure to verify your use-case is within Qt's license.
 Compilation and deployment of our Widget example app
 - ✅ WebGL1 ( [Try Demo!](https://maplibre-native-wasm-dist.pages.dev/qt-opengl2/) ) - ( [Build guide and binaries](https://github.com/birkskyum/maplibre-native-wasm-dist/tree/main/qt-opengl2) ) - [Ref. Ticket](https://github.com/maplibre/maplibre-native-qt/issues/49)
 - ⌛ WebGL2 - [Ref. Ticket
-](https://github.com/maplibre/maplibre-native-qt/issues/147)
+](https://github.com/birkskyum/maplibre-native-wasm/issues/1)
 - ⌛ WebGPU
 
 Side quests and optmizations to be made:
