@@ -24,7 +24,7 @@ Changing `deleteLater();` to `abort();` avoids a lot of duplicate requests.
 
 ```diff
 
-// vendor/maplibre-native/platform/qt/src/mbgl/http_file_source.cpp
+# vendor/maplibre-native/platform/qt/src/mbgl/http_file_source.cpp
 
 void HTTPFileSource::Impl::onReplyFinished() {
     QNetworkReply* reply = qobject_cast<QNetworkReply*>(sender());
