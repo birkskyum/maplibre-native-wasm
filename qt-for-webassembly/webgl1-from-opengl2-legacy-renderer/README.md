@@ -13,7 +13,9 @@ Here are instructions to make a wasm build, that'll for now give a black screen,
 
 For anyone interested in trying this. Here are the first steps (I'm on macos, so some of my steps my not transfer directly):
 
-### Changes needed to the code (PR [here](https://github.com/maplibre/maplibre-native/pull/2689) to fix upstream):
+### Changes needed to the code
+
+> There is a [PR](https://github.com/maplibre/maplibre-native/pull/2689) to fix this upstream:
 
 In the vendor/maplibre-native, update the followign in the: **HTTPFileSource** (platform/qt/src/mbgl/http_file_source.cpp)
 
