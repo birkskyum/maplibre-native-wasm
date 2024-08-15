@@ -1,8 +1,8 @@
-# Qt using the OpenGL2 compatibility branch
+# Qt using the OpenGL2 compatibility branch for a WebGL1 build
 
 The web runtime is webgl1
 
-[Demo link](https://maplibre-native-wasm-dist.pages.dev/qt-opengl2/)
+[Demo link](https://birkskyum-maplibre-native-wasm.pages.dev/qt-webgl1-legacy-renderer/)
 
 # Build steps:
 
