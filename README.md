@@ -43,7 +43,7 @@ It is technically possible to use a wasm build of Native for web as well, which 
 
 Work is not started. More info [here](https://flutter.dev/multi-platform/web)
 
-### MapLibre Native Core - vanilla emscripten
+### MapLibre Native Core
 
 - ⌛ WebGL2 - [Ref. Ticket](https://github.com/maplibre/maplibre-native/issues/2554)
 - ⌛ WebGPU
