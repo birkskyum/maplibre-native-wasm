@@ -16,7 +16,7 @@ For anyone interested in trying this. Here are the first steps (I'm on macos, so
 
 ### Changes needed to the code (PR [here](https://github.com/maplibre/maplibre-native/pull/2689) to fix upstream):
 
-In the vendor/maplibre-native, update the followign in the: **HTTPFileSource**
+In the vendor/maplibre-native, update the followign in the: **HTTPFileSource** (platform/qt/src/mbgl/http_file_source.cpp)
 
 Changing the `reply-> url` in the opengl2 branch of Native allow the build to run.
 
