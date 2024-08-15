@@ -8,7 +8,7 @@ Note: Be sure to verify your use-case is within Qt's license.
 
 ## Roadmap
 Compilation and deployment of our Widget example app
-- ✅ WebGL1 w/ Qt 6.8.0-beta.3
+- ✅ WebGL1 from OpenGL2 w/ legacy renderer - Qt 6.8.0-beta.3
   - [Run Demo](https://birkskyum-maplibre-native-wasm.pages.dev/qt-for-webassembly/webgl1-from-opengl2-legacy-renderer/)
   - [Build guide and binaries](./webgl1-from-opengl2-legacy-renderer/README.md)
   - [Ref. Ticket](https://github.com/maplibre/maplibre-native-qt/issues/49)
