@@ -7,6 +7,7 @@ export default defineConfig({
   description: "Run MapLibre Native in the Browser",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Introduction', link: '/introduction' }
