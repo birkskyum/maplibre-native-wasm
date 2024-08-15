@@ -1,4 +1,4 @@
-# Qt using the OpenGL2 compatibility branch for a WebGL1 build
+# Make a WebGL1 build from OpenGL2 legacy branch with Qt
 
 The web runtime is webgl1
 
