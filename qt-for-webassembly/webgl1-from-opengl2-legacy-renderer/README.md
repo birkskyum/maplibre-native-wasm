@@ -1,8 +1,6 @@
 # Make a WebGL1 build from OpenGL2 legacy branch with Qt
 
-The web runtime is webgl1
-
-[Demo link](https://birkskyum-maplibre-native-wasm.pages.dev/qt-for-webassembly/webgl1-from-opengl2-legacy-renderer/)
+### [Demo link](https://birkskyum-maplibre-native-wasm.pages.dev/qt-for-webassembly/webgl1-from-opengl2-legacy-renderer/)
 
 # Build steps:
 
