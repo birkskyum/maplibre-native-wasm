@@ -12,9 +12,11 @@ Compilation and deployment of our Widget example app
   - [Run Demo](https://birkskyum-maplibre-native-wasm.pages.dev/qt-for-webassembly/webgl1-from-opengl2-legacy-renderer/)
   - [Build guide and binaries](./webgl1-from-opengl2-legacy-renderer/README.md)
   - [Ref. Ticket](https://github.com/maplibre/maplibre-native-qt/issues/49)
-- ⌛ WebGL2 - [Ref. Ticket
+- ⌛ WebGL2
+  - [Ref. Ticket
 ](https://github.com/maplibre/maplibre-native-qt/issues/147)
-- ⌛ WebGPU - [Ref. Ticket
+- ⌛ WebGPU
+  - [Ref. Ticket
 ](https://github.com/maplibre/maplibre-native-qt/issues/153)
 
 Optmizations to be made:
