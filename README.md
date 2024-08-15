@@ -43,9 +43,11 @@ It is technically possible to use a wasm build of Native for web as well, which 
 
 Work is not started. More info [here](https://flutter.dev/multi-platform/web)
 
-### Expo for Web (React)
+### Expo / React Native for Web
 
-See more here: https://docs.expo.dev/workflow/web/
+See more here:
+- https://docs.expo.dev/workflow/web/
+- https://necolas.github.io/react-native-web/
 
 
 ### MapLibre Native Core
