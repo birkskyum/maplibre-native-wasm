@@ -5,6 +5,9 @@ layout: home
 hero:
   name: "MapLibre Native Wasm"
   text: "Compilation for browser targets"
+  image:
+    src: /logo.png
+    alt: MapLibre Native Wasm
   tagline: 
   actions:
     - theme: brand
