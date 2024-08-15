@@ -33,5 +33,5 @@ features:
   - title: Consistent rendering on server and client
     details: When MapLibre Native is used to make static maps serverside, and a user click such an image to launch MapLibre GL JS in the browser, it's likely that there will be some inconsistent visual output.
   - title: Efficient maintenance
-    details: If MapLibre Native can run efficient in the browser, it might be more favorable to maintain a web-optimized graphics backend for MapLibre Native, than a fully-flegded JS/TS mirror like MapLibre GL JS.
+    details: If MapLibre Native can run efficient in the browser, it might be more favorable long term to maintain a web-optimized graphics backend for MapLibre Native, than a fully-flegded JS/TS mirror like MapLibre GL JS.
 
