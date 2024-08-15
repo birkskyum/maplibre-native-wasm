@@ -43,14 +43,15 @@ It is technically possible to use a wasm build of Native for web as well, which 
 
 Work is not started. More info [here](https://flutter.dev/multi-platform/web)
 
+### Expo for Web (React)
+
+See more here: https://docs.expo.dev/workflow/web/
+
+
 ### MapLibre Native Core
 
 - ⌛ WebGL2 - [Ref. Ticket](https://github.com/maplibre/maplibre-native/issues/2554)
 - ⌛ WebGPU
-
-#### React Native for Web
-
-Work is not started 
 
 #### GLFW - vanilla emscripten
 
