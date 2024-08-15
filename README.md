@@ -1,6 +1,6 @@
 # MapLibre Native Wasm
 
-<img src="https://github.com/user-attachments/assets/4d7bfcdf-0854-4483-8cb5-276f81502949" alt="MapLibre Native Wasm" style="width:200px;"/>
+<img src="https://github.com/user-attachments/assets/80bdc902-2b83-4cfc-ba96-e8f276513eff" alt="MapLibre Native Wasm" style="width:200px;"/>
 
 This repo is two things:
 - Document strategies for Wasm compilation of MapLibre Native to run in the browser.
