@@ -1,14 +1,15 @@
-# Make a WebGL1 build from OpenGL2 legacy branch with Qt
+# WebGL1 from OpenGL2 legacy branch
+> Go back to [Qt for WebAssembly](../README.md)
+> 
+> Last updated: 6.8.0-beta.3  / Aug 14th 2024
+>
+> [Run this Demo](https://birkskyum-maplibre-native-wasm.pages.dev/qt-for-webassembly/webgl1-from-opengl2-legacy-renderer/)
 
-### [Demo link](https://birkskyum-maplibre-native-wasm.pages.dev/qt-for-webassembly/webgl1-from-opengl2-legacy-renderer/)
-
-# Build steps:
+## Build steps:
 
 It would be interesting for us to explore a wasm port of the c++ core in the browser.
 
 Here are instructions to make a wasm build, that'll for now give a black screen, but we're still debugging it. The style is downloaded, and workers are running, and this guide will be kept up to date as we move forward, new qt versions come out, and when the maplibre repos evolve.
-
-## **Last updated: 6.8.0-beta.3  / Aug 14th 2024**
 
 For anyone interested in trying this. Here are the first steps (I'm on macos, so some of my steps my not transfer directly):
 
