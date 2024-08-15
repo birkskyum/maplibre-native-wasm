@@ -1,4 +1,4 @@
-# WebGL1 from OpenGL2 legacy branch
+# WebGL1 from OpenGL2 legacy renderer
 > Go back to [Qt for WebAssembly](../README.md)
 > 
 > Last updated: 6.8.0-beta.3  / Aug 14th 2024
