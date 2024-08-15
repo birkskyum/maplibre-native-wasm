@@ -6,7 +6,7 @@ hero:
   name: "MapLibre Native Wasm"
   text: "Compilation guides for browser targets"
   image:
-    src: /logo3.png
+    src: /logo.png
     alt: MapLibre Native Wasm
   tagline: 
   actions:
