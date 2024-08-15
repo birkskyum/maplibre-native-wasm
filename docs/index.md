@@ -26,7 +26,7 @@ hero:
 
 features:
   - title: Develop once, run everywhere
-    details: Instead of implementing a separate web apps you can just compile your existing mobile and desktop apps to the web.
+    details: Instead of implementing separate web apps you can just compile your existing mobile and desktop apps to the web.
   - title: Consistent rendering on server and client
     details: When MapLibre Native is used to make static maps serverside, and a user click such an image to launch MapLibre GL JS in the browser, it's likely that there will be some inconsistent visual output.
   - title: Efficient maintenance
