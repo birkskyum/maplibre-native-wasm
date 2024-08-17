@@ -9,11 +9,11 @@ There are many strategies for MapLibre Native Wasm compilation that can and will
 
 There are two kinds of strategies, namely Library compilation and App compilation.
 
-- **Library compilation** consist of [compiling MapLibre Native Core to Wasm](https://github.com/maplibre/maplibre-native/issues/2554) and much like MapLibre GL JS use a JS API to either:
+- **[Library compilation](./library-compilation.md)** consist of [compiling MapLibre Native Core to Wasm](https://github.com/maplibre/maplibre-native/issues/2554) and much like MapLibre GL JS use a JS API to either:
     - Embed it as the web target in [classic Flutter for Web](https://flutter.dev/multi-platform/web) and [React Native for Web](https://necolas.github.io/react-native-web/)
     - Call it directly from React/Vue/Svelte/vanillajs or use through wrapper libraries.
 
-- **App compilation** leverages an app development framework with built-in support for compiling your full app to Wasm:
+- **[App compilation](./app-compilation.md)** leverages an app development framework with built-in support for compiling your full app to Wasm:
     - C++: [Qt for WebAssembly](/qt-for-webassembly/)
     - Kotlin: [Compose Multiplatform and Kotlin Wasm](/compose-multiplatform-and-kotlin-wasm/)
     - Dart: [Flutter Wasm Target](/flutter-wasm-target/)
