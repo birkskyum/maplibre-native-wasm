@@ -1,8 +1,8 @@
 # Qt for WebAssembly
 
-[MapLibre Native Qt](https://github.com/maplibre/maplibre-native-qt) makes it easy to build Mobile and Desktop apps with MapLibre in C++.
+It's possible to use the [MapLibre Native Qt](https://github.com/maplibre/maplibre-native-qt) bindings to embed MapLibre Native in Qt apps.
 
-[Qt for WebAssembly](https://doc.qt.io/qt-6/wasm.html) allow those apps to run on the Web as well!
+Qt is commonly used for building Mobile and Desktop apps, but with [Qt for WebAssembly](https://doc.qt.io/qt-6/wasm.html) it's even possible to build Web apps! 
 
 Note: Be sure to verify your use-case is within Qt's license.
 
