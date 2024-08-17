@@ -22,9 +22,6 @@ hero:
     - theme: brand
       text: Compose Multiplatform
       link: /compose-multiplatform-and-kotlin-wasm
-    - theme: brand
-      text: React Native Web & Expo
-      link: /react-native-web-and-expo
     
 
 features:

@@ -21,7 +21,6 @@ export default defineConfig({
         ] },
         { text: 'Compose Multiplatform and Kotlin Wasm', link: '/compose-multiplatform-and-kotlin-wasm/' },
         { text: 'Flutter Wasm Target', link: '/flutter-wasm-target/' },
-        { text: 'React Native Web and Expo', link: '/react-native-web-and-expo/' },
     ]},
      ] 
     ,
