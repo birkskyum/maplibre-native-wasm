@@ -13,15 +13,15 @@ hero:
     - theme: brand
       text: Introduction
       link: /introduction
-    - theme: brand
-      text: Qt for WebAssembly
-      link: /qt-for-webassembly
-    - theme: brand
-      text: Flutter Wasm Target
-      link: /flutter-wasm-target
-    - theme: brand
-      text: Compose Multiplatform
-      link: /compose-multiplatform-and-kotlin-wasm
+    # - theme: brand
+    #   text: Qt for WebAssembly
+    #   link: /qt-for-webassembly
+    # - theme: brand
+    #   text: Flutter Wasm Target
+    #   link: /flutter-wasm-target
+    # - theme: brand
+    #   text: Compose Multiplatform
+    #   link: /compose-multiplatform-and-kotlin-wasm
     
 
 features:
