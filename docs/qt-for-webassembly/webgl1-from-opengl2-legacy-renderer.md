@@ -33,7 +33,7 @@ export PATH="/Users/admin/repos/emsdk/upstream/emscripten:$PATH"
 
 ### A few manual changes required for now
 
-Before you build QMaplibre, you'll have to make some manual changes in the maplibre-native-qt repo, until this upstread [PR](https://github.com/maplibre/maplibre-native/pull/89) lands.
+Before you build QMaplibre, you'll have to make some manual changes in the maplibre-native-qt repo, until this upstread [PR](https://github.com/maplibre/maplibre-native/pull/2689) lands.
 
 Update the followign in the: **HTTPFileSource** (`maplibre-native-qt/vendor/maplibre-native/platform/qt/src/mbgl/http_file_source.cpp`)
 
