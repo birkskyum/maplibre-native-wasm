@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: Introduction
       link: /introduction
+    - theme: brand
+      text: WebGL1 Demo
+      link: https://birkskyum-maplibre-native-wasm.pages.dev/qt-for-webassembly/webgl1-from-opengl2-legacy-renderer/
     # - theme: brand
     #   text: Qt for WebAssembly
     #   link: /qt-for-webassembly

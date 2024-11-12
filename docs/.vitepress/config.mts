@@ -11,6 +11,7 @@ export default defineConfig({
 		nav: [
 			{ text: "Home", link: "/" },
 			{ text: "Introduction", link: "/introduction" },
+			{ text: "WebGL1 Demo", link: "https://birkskyum-maplibre-native-wasm.pages.dev/qt-for-webassembly/webgl1-from-opengl2-legacy-renderer/" },
 		],
 
 		sidebar: [
