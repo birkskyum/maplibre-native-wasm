@@ -64,7 +64,7 @@ qt-cmake ../examples/widgets \
 -DCMAKE_CXX_COMPILER_LAUNCHER="ccache" \
 -DCMAKE_EXE_LINKER_FLAGS="-s EXPORT_NAME=Something" \
 -DQMapLibre_DIR=/Users/admin/repos/maplibre-native-qt/qmaplibre-install-dir/lib/cmake/QMapLibre \
--DCMAKE_CXX_FLAGS="-Os" # Release optimization, focus on binary size 
+-DCMAKE_CXX_FLAGS="-Os"
 
 ninja
 emrun --browser=chrome QMapLibreExampleWidgets.html
