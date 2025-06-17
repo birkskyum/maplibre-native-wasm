@@ -6,7 +6,7 @@ Last updated: 6.9.1  / July 16th 2025
 
 [Run this Demo - Qt 6.9.1](https://birkskyum-maplibre-native-wasm.pages.dev/qt-for-webassembly/webgl1-from-opengl2-legacy-renderer-qt6-9-1/)
 
-[Binaries](https://github.com/birkskyum/maplibre-native-wasm/tree/main/dist/qt-for-webassembly/webgl1-from-opengl2-legacy-renderer)
+[Binaries](https://github.com/birkskyum/maplibre-native-wasm/tree/main/dist/qt-for-webassembly/)
 
 
 ## Prerequisites
